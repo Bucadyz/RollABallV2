@@ -1,0 +1,6 @@
+This is my finished Roll-A-Ball V2
+I implemented a few new features to complete the unique feature aspect.
+I added spring squares which make the ball jump when they are rolled over. To counteract this,
+I have also added invisible walls so that the player does not fall off the playing area.
+The other thing I added was pickups that increase or decrease the size of the player. To help get this idea across, I also increased
+the starting size of the player, so throughout the game you can either get super large or somewhat small. 
